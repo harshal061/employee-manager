@@ -8,5 +8,6 @@ def get_employees():
         "masterperson",
         "Neha",
         "Jay"
-        "Rohit"
+        "Rohit",
+        "Sameer"
     ]
