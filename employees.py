@@ -4,5 +4,6 @@ def get_employees():
     return [
         "Harshal",
         "Rahul",
-        "Amit"
+        "Amit",
+        "masterperson"
     ]
