@@ -5,7 +5,7 @@ def get_employees():
         "Harshal",
         "Rahul",
         "Amit",
-        "masterperson",
+        "admin",
         "Neha",
         "Jay"
         "Rohit",
